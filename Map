@@ -37,7 +37,7 @@ public class HashMapExample {
         }
 
         
-        System.out.println("URK23CS8010");
+        System.out.println("URK23CS1082");
         System.out.println("\nHashMap elements:");
 
         Iterator<Map.Entry<String, String>> iterator =
